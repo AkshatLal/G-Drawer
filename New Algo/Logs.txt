@@ -1,0 +1,11 @@
+Work done:
+	Made the code modular
+	Implemented Partitioning path (to be verified)
+	Debugged West most path (to be verified)
+	Optimized code (changed get_outer_face function)
+
+Next step:
+	Implement draw algorithm recursively
+
+Notes:
+	Fix the get_dual code and vertex_to_edge mapping function. Change enumeration from alphabetical to numerical (causes error when Dual graph has more than 26 vertices)
